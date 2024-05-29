@@ -17,7 +17,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Shahzaib-ur-Rehman/snap-intro-section-with-dropdown-menu)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Intro section with dropdown navigation](https://snap-intro-section-with-dropdown-menu.vercel.app/)
 
 ## My process
 
